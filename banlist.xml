@@ -1,0 +1,426 @@
+<banlist>
+    <ban nick="Nick" serial="7627CB9027E713E301E83A8F13057055" banner="Gabriel_CBRP" reason="HACK" time="1739047765"></ban>
+    <ban nick="discord.gg/RrkN5euS" ip="45.236.55.94" serial="F2680437F9C413952568EE45B208A8A2" banner="manowGabriel" reason="1" time="1739051701"></ban>
+    <ban nick="Nick" serial="F6D5864CFD7991ECBDB77D3F8C897953" banner="Gabriel_CBRP" reason="HCK" time="1739053564"></ban>
+    <ban nick="GTZINN" ip="45.236.55.92" serial="EDB1CA11CA09BDB13CCC23677589CE53" banner="manowGabriel" reason="1" time="1739053930"></ban>
+    <ban nick="Nick" serial="708BD2789FB4A5D8289AEF4AFB9B0953" banner="Gabriel_CBRP" reason="Hack" time="1739054445"></ban>
+    <ban nick="LIMAXX" ip="45.236.53.222" serial="57A442D635C44576487DCC50196F29A3" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739055764"></ban>
+    <ban nick="244hz" ip="45.236.54.73" serial="0D3DF841633C8FE3BC881E986EEA1F54" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739056366"></ban>
+    <ban nick="Bigodinho" ip="187.120.28.140" serial="129819B79F4F48AAD98FCBDB8717DA63" banner="[ROMAN-STORE] Anti-Cheat" reason="Você foi banido por uso de Hack! (Códigos Maliciosos [https://hastebin.skyra.pw/axasabohab])" time="1739060177"></ban>
+    <ban nick="TCP/zezin" ip="179.223.202.123" serial="3F505F819FA2F054EB4C834AEE54DEA4" banner="manowGabriel" reason="Racismo" time="1739064501"></ban>
+    <ban nick="#000000Falidopeca" ip="187.99.97.230" serial="85D34253ADBA840957FB932267CF9D94" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739068309"></ban>
+    <ban nick="b12+&apos;bcg2.0" serial="4324E17F44F534724AF9DBF6CD5ABC03" banner="Console" reason="Triggered invalid event" time="1739068799"></ban>
+    <ban serial="36E9505EB804476EC7345D7811417292" banner="Gabriel_CBRP" reason="Hacker" time="1739081084"></ban>
+    <ban nick="Liguas" ip="187.180.189.231" serial="3B0DB65536E2B1F398EB63CF580A0543" banner="massaru" reason="hack" time="1739119500"></ban>
+    <ban nick="matasafado" ip="177.126.235.203" serial="12BD54119CAB0E4156F7FC63504305B2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739123270"></ban>
+    <ban nick="acc.hazardPRIMATA" ip="45.175.5.69" serial="008A026FE59443BB8D2FB093DF183894" banner="manowGabriel" reason="HACK" time="1739127012"></ban>
+    <ban nick="LUX" ip="170.0.187.100" serial="F3542DCE96B59039F243579A890984A3" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739128980"></ban>
+    <ban nick="kfkf" ip="168.0.162.144" serial="8F7ED51D4A57613DA7A50D1E4B99B5E3" banner="#00EAFFFelipe_Snape" reason="Motivo" time="1739150725"></ban>
+    <ban nick="talinrabano" ip="177.101.43.221" serial="003881B0C5A82C64CE7C1CA0E0CB1554" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739150806"></ban>
+    <ban nick="eb_x_NANDO" ip="170.246.197.230" serial="BE5D46D015E32A440559D0596518B2E4" banner="TroubledNotebook32" reason="1" time="1739150864"></ban>
+    <ban nick="Filho_do_russo_menu" ip="181.189.9.79" serial="B59F5D1C37F70CC157D0B2F660CD9E52" banner="TroubledNotebook32" reason="5" time="1739153717"></ban>
+    <ban nick="levizadahh!" serial="32DD9F6AFEFBD5054912A0BC48D425F3" banner="massaru_estelar" reason="cheat (nick: levizadahh!) (by massaru_estelar)" time="1739192002"></ban>
+    <ban nick="Kojak" ip="187.65.18.23" serial="614CF283292DB5E9CCE27A871F6D3394" banner="#00EAFFFelipe_Snape" reason="HACKER" time="1739207891"></ban>
+    <ban nick="RussoMenu" ip="45.236.53.221" serial="2ECF3335696B1BE1FD22D3D649E5A3A1" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739230871"></ban>
+    <ban nick="2gfodefode" ip="170.84.181.186" serial="D99DE0FC72D0661254A83156301C7EF4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739236700"></ban>
+    <ban nick="Breno.S" ip="187.19.130.119" serial="E6B74B96AC70B15B40D3822BA6BF52E3" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739241902"></ban>
+    <ban nick="STARK" ip="186.225.140.18" serial="193FBA936D18E84AD8AF3CAD52755634" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739299659"></ban>
+    <ban nick="." ip="186.226.0.36" serial="6731DDF3C789F3728CC2A384C0E5A753" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739301281"></ban>
+    <ban nick="BEBEL" ip="170.84.181.151" serial="B0B06A0EB3DF56FE6674BF04842AE452" banner="ZIBRA.X" reason="USO DE HACK " time="1739383567"></ban>
+    <ban nick="cabeludo" ip="45.181.33.141" serial="9E0344E9F5D8BEFE92E0CA2705BBDAE3" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739386794"></ban>
+    <ban nick="gustavin244" ip="168.196.21.245" serial="CAEEB353E3BE46CE47F3BFCB425BCBA3" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739400692"></ban>
+    <ban nick="LEGIT" ip="170.84.181.178" serial="9D84B59D7A61DC14DB71FE34F448E3E3" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739412104"></ban>
+    <ban nick="BDA_FORMIGA" serial="C73171C9C0E8B45F607043E0D35283A1" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1739413003"></ban>
+    <ban nick="#FFFFFF" ip="186.216.27.25" serial="68C5E48E0E422BCF294C88574C8F0434" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739417162"></ban>
+    <ban nick="2gfodefode" ip="170.84.181.176" serial="4974F06A69D5717F7AC2BF85A0272BE3" banner="massaru" reason="cheat" time="1739482625"></ban>
+    <ban nick="CRO|AVZ|Luan" ip="177.126.234.209" serial="7823F78F32E774F3F77B203009F9FB93" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739502390"></ban>
+    <ban nick="BEBEL" ip="170.84.180.173" serial="76CF30AAD00222C8F49B5040582454F4" banner="[&apos;pjl]trapstarrrr" reason="HACK" time="1739559179"></ban>
+    <ban nick="BEBEL" ip="170.84.181.170" serial="8D0461E7680635B33148504B21A397F2" banner="[&apos;pjl]trapstarrrr" reason="hack" time="1739576789"></ban>
+    <ban nick="Boss" ip="181.189.9.82" serial="462DFB352DB2BF1C1AA79FC52F18FC44" banner="kimmich" reason="hack" time="1739580961"></ban>
+    <ban nick="vinitzl" ip="168.232.69.40" serial="ACAF9EFC8168AE7CBB500DB6BFB70634" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739596859"></ban>
+    <ban nick="RoyalVegetables74" ip="186.194.199.187" serial="1293D3E3DFA1C449A1A1D06F5E989442" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739639437"></ban>
+    <ban nick="opss" ip="170.239.250.241" serial="B5450A359C1D18814840C8C7231B56F3" banner="kimmich" reason="HACK" time="1739671846"></ban>
+    <ban nick="Nick" serial="1808898250409D7AD95491B1C77C22E2" banner="Kakashi_Sensei" reason="Ameaça + Ofensa + Desrespeito" time="1739674784"></ban>
+    <ban nick="Nick" ip="45.186.81.122" banner="Kakashi_Sensei" reason="Ameaça + Desrespect etc" time="1739674802"></ban>
+    <ban nick="Liguas" ip="187.180.189.249" serial="498ADF9D60D2C472915A4F90B0DED1F2" banner="ZIBRA.X" reason="uso de hack" time="1739714621"></ban>
+    <ban nick="Moraes" ip="161.22.59.249" serial="F9A8455430D1B33C67127CC277202514" banner="Crowed" reason="HACK" time="1739734626"></ban>
+    <ban nick="Russo" ip="45.228.250.47" serial="83B02BB42FA3EE764494C669FE8B1243" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739751771"></ban>
+    <ban nick="zk" ip="200.14.56.141" serial="38EF2C8256EE5B2A06E06AB665B99BE4" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739757296"></ban>
+    <ban nick="XBATATA" ip="177.155.237.70" serial="E8EE1C09A0C96129244A10D16F2CF944" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739832948"></ban>
+    <ban nick="BEBEL" ip="170.84.180.254" serial="10CF9C0B3F09CC68E34C74D2FCA92352" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739837288"></ban>
+    <ban nick="jhz" serial="98BDCD8B5E62C405394432FA68956334" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1739889573"></ban>
+    <ban nick="ClammyMercenary92" ip="189.90.235.145" serial="476274608266493615740594F4FDDE12" banner="#00EAFFFelipe_Snape" reason="HACK" time="1739895579"></ban>
+    <ban nick="thiagozx14" ip="177.37.251.52" serial="7647DF16B5578A0AA2091CE8A53ED2D2" banner="kimmich" reason="HACK" time="1739920751"></ban>
+    <ban nick="vtzada" ip="179.107.251.80" serial="6BD739478F3ABD555B66A817EAE751A2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1739920757"></ban>
+    <ban nick="thiagozx14" ip="177.37.251.94" serial="51B9C3709E70B7D89767B9248A8E6C42" banner="#FF0000Poder7" reason="hack" time="1739933544"></ban>
+    <ban nick="biteco" ip="24.152.64.54" serial="B48A7C1CB58F2CF719B98B67C9E5D5A2" banner="#00EAFFFelipe_Snape" reason="INVEJOSO" time="1739981838"></ban>
+    <ban nick="RAFIXP1" ip="179.0.34.219" serial="9E4D9A46F7B043976164369B68FFF8E4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740003779"></ban>
+    <ban nick="nggQUENTAO" ip="45.176.161.189" serial="12EC081B527E8DC971BCF119E1C38FA2" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740006827"></ban>
+    <ban nick="Julia" ip="200.236.251.248" serial="DC7D986051CFD5C9A571F7D2AFBD6944" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740006894"></ban>
+    <ban nick="carolzinha" ip="191.220.183.84" serial="AF5FB1B6E77CFA11C19161985096EBA3" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740006967"></ban>
+    <ban serial="12A51B65B6581968AB3F9FD66F4B6AF3" banner="Felipe_Snape" reason="RACISMO" time="1740012608"></ban>
+    <ban nick="pk" ip="45.181.232.223" serial="C62FF248E781B5BEFD76B36345B9F6F4" banner="#FF0000Poder7" reason="hack" time="1740030003"></ban>
+    <ban nick="Nick" serial="BD88F7B2B00B4477BFCBDDF010B96FBF" banner="Kakashi_Sensei" reason="Uso de cheats - Provas AntiCheat imagem logs" time="1740037006"></ban>
+    <ban nick="Nick" ip="179.252.184.154" banner="Kakashi_Sensei" reason="Uso de cheats - logs discord AC Imagem" time="1740037026"></ban>
+    <ban nick="JAVALI444" ip="177.98.19.176" serial="D084C7081394921439F328624013F584" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740065265"></ban>
+    <ban nick="fini7n" ip="168.195.74.64" serial="C5E7777484761C95EDE774CD2935A1F4" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740070201"></ban>
+    <ban nick="CabecaDuMal" ip="191.5.184.219" serial="054825D74B27527135E51969B4CDD293" banner="HexGuard" reason="CabecaDuMal estava usando cheat e foi banido.(923778782131814430)" time="1740075783"></ban>
+    <ban nick="VK|CRIA#FF0000244hz" ip="177.66.214.79" serial="941EFFA7389BAB133BB717EBEBC940F3" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740079128"></ban>
+    <ban nick="Milhonario" ip="45.234.214.229" serial="B6D5B20871666AF9A6F42AE14C13C392" banner="#00EAFFFelipe_Snape" reason="HACK" time="1740089162"></ban>
+    <ban nick="Nick" serial="AA1CE390CB7CB9308F4BA6133692FCB3" banner="Kakashi_Sensei" reason="Uso de cheats" time="1740090765"></ban>
+    <ban nick="juninfps" ip="138.97.21.235" serial="28004C6CC60348C9E45A4300CECC18F3" banner="kimmich" reason="USO DE CHEAT" time="1740096552"></ban>
+    <ban nick="gg.falsidadenaoreina" ip="170.239.250.252" serial="76C0D11936481219C417C405001230E4" banner="kimmich" reason="USO DE CHEAT" time="1740100124"></ban>
+    <ban nick="RudeTrundlebed15" ip="177.202.129.244" serial="D1888FA2D653C4D075FDDAEE64183842" banner="HexGuard" reason="RudeTrundlebed15 foi banido por uso de Oppressor-Engine.(923778782131814430)" time="1740102292"></ban>
+    <ban nick="javali444" ip="200.53.197.97" serial="B15D2CC4740CA6246FF1D69BBCA3A5B3" banner="HexGuard" reason="javali444 foi banido por uso de Oppressor-Engine.(923778782131814430)" time="1740103513"></ban>
+    <ban nick="USERR" ip="200.103.56.85" serial="E6DA637660FC497020DB6652E6A4BC94" banner="kimmich" reason="USO DE CHEAT " time="1740110538"></ban>
+    <ban nick="DynamicChamois14" ip="191.6.11.183" serial="B9453829FD7328BB2A179D2B002571F3" banner="HexGuard" reason="DynamicChamois14 foi banido por uso de Oppressor-Engine.(923778782131814430)" time="1740153463"></ban>
+    <ban nick="dkzin" ip="45.164.7.122" serial="A7DAAE2EEFBCF5E522A1EC873C5985B3" banner="kimmich" reason="USO DE CHEAT E SPOOFER" time="1740158533"></ban>
+    <ban nick="LethalTrims48" ip="179.214.115.9" serial="2D8B46FA04D356AB32CF6DEC98690BA2" banner="HexGuard" reason="LethalTrims48 tentou lua executor e foi banido.(923778782131814430)" time="1740158735"></ban>
+    <ban nick="[Virus]" ip="191.219.24.58" serial="702A861EFF9D53A04BCBDD390C88CF62" banner="#00EAFFFelipe_Snape" reason="Flaming+Ofensa ao Server" time="1740159590"></ban>
+    <ban nick="LateCheetah6" ip="213.22.96.63" serial="982909D49F091CE462BB87986D8AAB42" banner="kimmich" reason="USO DE CHEAT" time="1740162864"></ban>
+    <ban nick="Nick" serial="DF6185B03EAB8214C81338CBDD241F03" banner="Kakashi_Sensei" reason="cheats" time="1740165052"></ban>
+    <ban nick="paiva" ip="177.53.187.22" serial="39C77F6A5AFB3A01B7EB02C3EF906EE4" banner="HexGuard" reason="paiva tentou pegar um carro falso e foi banido.(923778782131814430)" time="1740179451"></ban>
+    <ban nick="Russo" ip="45.228.250.28" serial="CC0340D6CBD2959A2D48F8796FF52653" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740180605"></ban>
+    <ban nick="Nick" serial="7CC53279369A85C6DF5DF9FC375C0683" banner="Kakashi_Sensei" reason="Reason" time="1740183596"></ban>
+    <ban nick="RussoMenu" ip="45.236.55.97" serial="901C79851CED7E2989114E8419D41224" banner="Buzeira" reason="hacker" time="1740198988"></ban>
+    <ban nick="poison?" ip="189.110.115.75" serial="B4324048D2A393A510F132D9CBCADB53" banner="#FF0000Poder7" reason="hask" time="1740281003"></ban>
+    <ban nick="Capudo" ip="187.120.22.31" serial="CC70AD9F844445C5B4CB9C03882145B2" banner="ZIBRA-X" reason="uso de hack" time="1740313607"></ban>
+    <ban nick="nip,banana" ip="45.234.141.80" serial="5D2AC1C4D41445CFB154B0BD26F52C84" banner="manowGabriel" reason="cheat" time="1740345487"></ban>
+    <ban nick="LUKAS" ip="131.0.46.234" serial="B5EF9D94575BEA3E33C27B756901F242" banner="CBRP AC #3161" reason="Uso de cheat" time="1740347209"></ban>
+    <ban nick="FearlessDeer18" ip="187.120.22.159" serial="8F7B6D9447D242A35E9A170360FFDEF3" banner="manowGabriel" reason="1" time="1740347519"></ban>
+    <ban nick="jurema" ip="173.245.211.155" serial="FE50BF659051C8C3CF26488D99B067E4" banner="#00fff8Felipe_Snape" reason="HACK" time="1740362894"></ban>
+    <ban nick="jurema" ip="173.245.211.150" serial="4836CFBCEDCEB8167D7E6DBC0A94FB43" banner="#00fff8Felipe_Snape" reason="HACK" time="1740363623"></ban>
+    <ban nick="SinistroMasteR" ip="45.165.91.43" serial="5DB27EF7160835B8CF4876BAFD0C7FF2" banner="#00fff8Felipe_Snape" reason="HACK" time="1740415711"></ban>
+    <ban nick="falidorsrs" ip="191.165.207.24" serial="1F0E37773892B3B8995CBE0BF903B634" banner="CBRP AC #3161" reason="Uso de cheat" time="1740417695"></ban>
+    <ban nick="oliveira" ip="181.189.8.69" serial="EA6AE1ADC7B35192C551876F306A0243" banner="#00fff8Felipe_Snape" reason="HACK" time="1740419927"></ban>
+    <ban nick="finolaa" ip="168.195.75.185" serial="A373C7ED621AF7850FD93B695CDA1B03" banner="#00fff8Felipe_Snape" reason="HACK" time="1740422505"></ban>
+    <ban nick="Nogueira" ip="83.144.176.164" serial="DC943AE93668DFCBC922664D9B1EBE74" banner="#00fff8Felipe_Snape" reason="HACK" time="1740422722"></ban>
+    <ban nick="pk" ip="45.181.232.184" serial="5123FD62D04DA344A6671D1FF88CA702" banner="CBRP AC #3161" reason="Uso de cheat" time="1740434962"></ban>
+    <ban nick="MiNaTo" ip="189.18.223.61" serial="6892449CCF81AEC111D9202686A8F9B3" banner="Lonelyback" reason="USO DE CHEAT" time="1740439267"></ban>
+    <ban nick="HeiRush" serial="6BA1AFCC220690778C896ABE2B849043" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740443628"></ban>
+    <ban nick="luan" ip="177.71.94.186" serial="D8EE1CBF108E26A420D0FF9365EB0E50" banner="AnnaLeeh+" reason="HACK" time="1740445247"></ban>
+    <ban nick="4M|sufistinha" serial="62522AE065896B42BD79C45D755912B2" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740498320"></ban>
+    <ban nick="papsultan" ip="200.219.118.188" serial="7CEB67D2BFFB32CE72CC7C5E60B26691" banner="CBRP AC #3161" reason="Uso de cheat" time="1740500205"></ban>
+    <ban nick="DecisiveCanal79" serial="7EAEF0C6930BE2DB2E160D3A44FA99AF" banner="Kakashi_Sensei" reason="tenta voltar agr nikolas gordola (nick: DecisiveCanal79) (by Kakashi_Sensei)" time="1740519499"></ban>
+    <ban nick="DecisiveCanal79" ip="45.234.43.50" serial="30C5E9AE7EE16EAEA6426908AA720E50" banner="CBRP AC #3161" reason="Uso de cheat" time="1740519682"></ban>
+    <ban nick="SeparateBat81" ip="45.234.41.233" serial="40606E6784254BA8EB9CC0025D09A424" banner="CBRP AC #3161" reason="Uso de cheat" time="1740522509"></ban>
+    <ban nick="tomajackporra&apos;cv" ip="131.221.89.78" serial="E35A9610CA02851C16FC2EE3B9E786A2" banner="Buzeira" reason="hacker" time="1740526080"></ban>
+    <ban nick="RagnarokZK" ip="45.71.211.12" serial="6423A4EC4D7FA34854BCEF2EA5B344F4" banner="#00fff8Felipe_Snape" reason="HACK" time="1740526355"></ban>
+    <ban nick="with" ip="45.187.58.234" serial="4EB8C92DE3BCBE852011F67860FF82A2" banner="Buzeira" reason="hacker" time="1740526897"></ban>
+    <ban nick="IGUI" ip="45.187.58.236" serial="3F3041CA1B25366A371E86BBBC9D4124" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740528787"></ban>
+    <ban nick="Teeny-tinyViolin31" ip="45.238.238.133" serial="33CA35B03CC6097C792C5E4D98958E41" banner="CBRP AC #3161" reason="Uso de cheat" time="1740530329"></ban>
+    <ban nick="Nick" serial="75A7FF67192160344FCB156F376AB3A1" banner="Kakashi_Sensei" reason="Reason" time="1740533724"></ban>
+    <ban nick="2LDOODIO" ip="168.228.112.226" serial="FFA73245F87C73A919D17722DDFFB2E4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740538992"></ban>
+    <ban nick="Paulista" ip="45.187.58.239" serial="D4621A4BD0986DEFE02378E973055A84" banner="CBRP AC #3161" reason="Uso de cheat" time="1740560283"></ban>
+    <ban nick="Paulista" ip="45.187.58.228" serial="7943A427F0AFB38FFA0751D8E052A903" banner="CBRP AC #3161" reason="Uso de cheat" time="1740560498"></ban>
+    <ban nick="SeparateBat81" ip="45.234.42.219" serial="51B93DE335E40ED65F783F3CB2C5E05E" banner="CBRP AC #3161" reason="Uso de cheat" time="1740563622"></ban>
+    <ban nick="raphael" ip="179.48.78.249" serial="9C4376C7F60641DC9807F9FCB3EEB082" banner="CBRP AC #3161" reason="Uso de cheat" time="1740583668"></ban>
+    <ban nick="PCC|FANTASMA" ip="189.7.180.140" serial="7C35CD5D556DBA693A464E3B86E058F4" banner="ZIBRA-X" reason="uso de hack" time="1740598988"></ban>
+    <ban nick="SeparateBat81" ip="45.234.43.189" serial="03A6E4B08DCBF31832B4A165EC426EE4" banner="CBRP AC #3161" reason="Uso de cheat" time="1740601322"></ban>
+    <ban nick="SeparateBat81" ip="45.234.42.199" serial="4A7F12FDE82A655523075093B4FC4C54" banner="CBRP AC #3161" reason="Uso de cheat" time="1740602238"></ban>
+    <ban nick="bolinha" ip="201.182.173.233" serial="BE992955F6DD9BC68DE074F3B2AB3144" banner="CBRP AC #3161" reason="Uso de cheat" time="1740602393"></ban>
+    <ban nick="richwithdrugs" ip="149.19.175.69" serial="A6BB5DC1EA702A6756DF798F32A67C43" banner="AnnaLeeh+" reason="HACK" time="1740603969"></ban>
+    <ban nick="#000000Gmzin062" ip="177.223.36.92" serial="2AC8CC52E42ECB80783DFFCD2AFE88E3" banner="CBRP AC #3161" reason="Uso de cheat" time="1740605220"></ban>
+    <ban nick="tico" ip="177.189.193.88" serial="BADF8C921D92C2D174D1273BB667FBA3" banner="#FF0000Poder7" reason="DARK PESADAO" time="1740611496"></ban>
+    <ban nick="cuzao" ip="45.71.211.84" serial="6662050641DA72A2BB475ADE603F3333" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740612974"></ban>
+    <ban nick="facada" ip="168.196.22.39" serial="7C1C36C93E0CEDD04C5C2F785C59B8A2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740614092"></ban>
+    <ban nick="Paulao" ip="45.191.136.220" serial="9334BC27F81857608998718223A8B3E2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740624073"></ban>
+    <ban nick="NiceEngine61" ip="187.19.242.21" serial="CAA28B26CD79CAC4434A65F2C3945702" banner="CBRP AC #3161" reason="Uso de cheat" time="1740630343"></ban>
+    <ban nick="ROTA&apos;joao" ip="45.165.110.62" serial="667B5D764F2B8CA477FDDF917169C324" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1740630488"></ban>
+    <ban nick="Lapis_lasoli" ip="89.214.228.115" serial="548A3239590981FCB3455DCF80D84D41" banner="CBRP AC #3161" reason="Uso de cheat" time="1740670994"></ban>
+    <ban nick="SinistroMasteR" ip="45.165.91.123" serial="E7F77492447B8E73134A68192AC8B782" banner="#00fff8Felipe_Snape" reason="HACK" time="1740672764"></ban>
+    <ban nick="Pecinha_odio" serial="BDF47DE594AC6E970CEEA11F59922653" banner="Felipe_Snape" reason="HACK (nick: Pecinha_odio) (by Felipe_Snape)" time="1740672815"></ban>
+    <ban nick="DamagedIris100" ip="138.59.121.212" serial="083CB98005A8A3DF84500F9094004A42" banner="#00fff8Felipe_Snape" reason="HACK" time="1740675048"></ban>
+    <ban nick="Joelmo" ip="187.94.146.90" serial="47C00308CD73651E46141E0D1F7C7CB2" banner="Lonelyback" reason="USO DE CHEAT" time="1740682730"></ban>
+    <ban nick="sesabe" ip="191.165.201.54" serial="346AA03AF9744D3F054792CFAA8B9F62" banner="CBRP AC #3161" reason="Uso de cheat" time="1740684235"></ban>
+    <ban nick="TDF_noku" serial="274610830E1E0E31316797154DEBC6B3" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740692507"></ban>
+    <ban nick="01|CDD|Pitoco" serial="59083139BF78BD129760499D9557BCA1" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740693517"></ban>
+    <ban nick="wirelles#&apos;&apos;" ip="200.14.56.150" serial="CD3C6726ECB77898B0DAA25323326912" banner="CBRP AC #3161" reason="Uso de cheat" time="1740698081"></ban>
+    <ban nick="PF|1.TEN|Souza" ip="45.233.37.32" serial="9D5E26F654CE501FB0BB166F01CC0E50" banner="CBRP AC #3161" reason="Uso de cheat" time="1740710162"></ban>
+    <ban nick="NeatChick82" ip="179.42.72.169" serial="555009FF58D3BA3A2F474B7CED18E4E1" banner="CBRP AC #3161" reason="Uso de cheat" time="1740711995"></ban>
+    <ban nick="castro" ip="187.45.4.63" serial="6A5E5D72E27A5962E7064876A5FA7134" banner="Gojoback" reason="USO DE CHEAT" time="1740720248"></ban>
+    <ban nick="Paulista" ip="45.187.56.250" serial="0A69F2144EE185BC85B221D957099783" banner="CBRP AC #3161" reason="Uso de cheat" time="1740748552"></ban>
+    <ban nick="PATATI" ip="187.38.61.121" serial="DC5F1B86DC65D72CF3627D6DCB3D7742" banner="#00fff8Felipe_Snape" reason="HACK" time="1740767774"></ban>
+    <ban nick="lowpecinha" ip="177.69.104.244" serial="79097E31B84CEACE9DE21876F1A846E2" banner="Bielzera" reason="Uso de cheats + money ielgal" time="1740777002"></ban>
+    <ban nick="LowlyLap49" ip="170.82.132.122" serial="B58136427A8C089971AA81FC0DDAB782" banner="Gojoback" reason="USO DE CHEAT" time="1740777748"></ban>
+    <ban nick="&apos;gui.king" ip="189.49.80.242" serial="016BE10A4BACBF84C447843E54C2C784" banner="Buzeira" reason="hacker" time="1740789821"></ban>
+    <ban nick="kkj" serial="36D895F1F8DFA17F70431D30ADE7FF04" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740799665"></ban>
+    <ban nick="ELM|PHZIN" serial="81646F0E2E0DBB60AE40D1A0ECDBF4A3" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740834918"></ban>
+    <ban nick="PROFESSOR" ip="187.19.130.61" serial="1D245D7D3E075ADBBC6E37CC482DD0E2" banner="CBRP AC #3161" reason="Uso de cheat" time="1740837451"></ban>
+    <ban nick="DeeplyOperative53" ip="200.14.56.147" serial="E8A6A957846191488F9160D12BEAE453" banner="CBRP AC #3161" reason="Uso de cheat" time="1740839001"></ban>
+    <ban nick="MindlessChannel15" ip="187.120.22.27" serial="83388C584EB76C9C398985F9E3505A12" banner="#00fff8Felipe_Snape" reason="HACK" time="1740839559"></ban>
+    <ban nick="PingaFogo" ip="179.42.72.160" serial="E13CEDC1C8647A31BD0571AE1215C0A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1740859375"></ban>
+    <ban nick="PlugAnal" ip="45.236.54.84" serial="29A883D54CAB8471FC637E98CF781C62" banner="AnnaLeeh+" reason="HACK" time="1740861796"></ban>
+    <ban nick="Ghost&apos;$" ip="170.150.243.109" serial="B37016B31282DAEBF18CD139811343B4" banner="AnnaLeeh+" reason="HACK" time="1740868029"></ban>
+    <ban nick="Castiel" ip="181.217.162.24" serial="180A9A58B0490EA8620821961CE345B3" banner="AnnaLeeh+" reason="HACK" time="1740872617"></ban>
+    <ban nick="indio57" serial="09A60CD1A2715543CA122A05C971E3A1" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740873632"></ban>
+    <ban nick="MLC.skipxiit" ip="138.97.243.3" serial="D1F0C7087D1EDB4513F6E88F86E860AD" banner="AnnaLeeh+" reason="HACK" time="1740882757"></ban>
+    <ban nick="peak" ip="45.181.232.197" serial="F81252527824AF4EF814AB461EA655F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1740891763"></ban>
+    <ban nick="pecinha" ip="89.153.236.144" serial="6BFBE914A64D552090003C7A0FB846B4" banner="cl" reason="Hack" time="1740929909"></ban>
+    <ban nick="Ghost" ip="170.245.250.22" serial="D5D9B77394FBA8EBF58071D56693A7A3" banner="cl" reason="hack" time="1740931677"></ban>
+    <ban nick="wize7xquinha" ip="187.19.187.79" serial="7CD0AFE8904F287C9C8403F882E48BB4" banner="invincible" reason="USO DE CHEAT" time="1740936334"></ban>
+    <ban nick="Jumentos" ip="187.180.189.99" serial="D729EE4C536C99ECF7C8BE192A8CBFE4" banner="invincible" reason="HACK" time="1740940131"></ban>
+    <ban nick="Nick" serial="CC5A5745A21840E125BC8D2CCE33E483" banner="Felipe_Snape" reason="HACK" time="1740941124"></ban>
+    <ban nick="#ff00ff&apos;rlq" serial="1B2A87AB5BB65A81EDBD97DAE3E40DF4" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1740942632"></ban>
+    <ban nick="valdemir" ip="45.6.30.132" serial="129D7AE55851713C87CBC92679B4DE54" banner="cl" reason="hack" time="1740944773"></ban>
+    <ban nick="Nick" serial="91E831D750CA932BE0CF2502897162F3" banner="Felipe_Snape" reason="HACK" time="1740945238"></ban>
+    <ban nick="Cardoso" ip="138.94.168.238" serial="7980D8B5354BAF13B26647F058ACCB54" banner="CBRP AC #3161" reason="Uso de cheat" time="1740958331"></ban>
+    <ban nick="cirilo" ip="189.46.171.115" serial="683DFD222BD7CCF99F00AD207AAD6684" banner="CBRP AC #3161" reason="Uso de cheat" time="1740959526"></ban>
+    <ban nick="Lccv" ip="177.184.98.192" serial="50C0077B35BB116F74FFD6918E46EC84" banner="CBRP AC #3161" reason="Uso de cheat" time="1740966570"></ban>
+    <ban nick="VulgarToes28" ip="45.234.43.108" serial="49F74DF6A3B19E122B8ED5DC8509A80E" banner="CBRP AC #3161" reason="Uso de cheat" time="1741005954"></ban>
+    <ban nick="1535" ip="179.110.82.23" serial="AFC7A696A0D1566FAF729FEA388B1454" banner="CBRP AC #3161" reason="Uso de cheat" time="1741023501"></ban>
+    <ban nick="RICK" ip="187.19.225.33" serial="2E1A2CA060C3521675F81CA3B28999AF" banner="CBRP AC #3161" reason="Uso de cheat" time="1741024299"></ban>
+    <ban nick="BILIONARIO" ip="177.116.100.217" serial="10630F5CD62B78F404C90711BFA564E3" banner="CBRP AC #3161" reason="Uso de cheat" time="1741026817"></ban>
+    <ban nick="falidokk" ip="187.99.97.28" serial="2BD1360320CDCE436114ACE0B8188344" banner="CBRP AC #3161" reason="Uso de cheat" time="1741030129"></ban>
+    <ban nick="CV|TST|eduardo" ip="186.205.13.151" serial="B9696FEE32AF184CE8C6805ED9D592F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741031114"></ban>
+    <ban nick="Matos" ip="191.243.118.170" serial="94038AF21B2DEEA8158A12151C2B24F4" banner="AnnaLeeh+" reason="HACK" time="1741042513"></ban>
+    <ban nick="MundaneAardvark24" ip="45.236.201.197" serial="9D4C14CB3784E88B8A883678D1E27492" banner="AnnaLeeh+" reason="HACK" time="1741043403"></ban>
+    <ban nick="Pjzz.kill" ip="201.43.236.4" serial="4D2617512327FECC47C4A34962AC7B72" banner="AnnaLeeh+" reason="HACK" time="1741044213"></ban>
+    <ban nick="PedroMitoBr22" ip="177.221.124.175" serial="21B0A3046BF7BD1A46D5933BEFE663F3" banner="AnnaLeeh+" reason="HACK" time="1741046703"></ban>
+    <ban nick="pecinha" ip="168.197.180.218" serial="A20E0D92E29B349C8796995F10AAB7F2" banner="AnnaLeeh+" reason="HACK" time="1741047299"></ban>
+    <ban nick="Chaves" ip="45.184.79.243" serial="F48E7C4E5B43A13AE1F77050844D17E4" banner="bykimmich" reason="USO DE CHEAT" time="1741050742"></ban>
+    <ban nick="PedroMitoBr22" ip="177.221.124.65" serial="FFA834AF3134F03C52CD0F759E882684" banner="o100j3ito" reason="HACK" time="1741109445"></ban>
+    <ban nick="ykz&apos;9h" ip="189.46.171.176" serial="D320D9CC1A9A60022688B89D364B62A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1741114316"></ban>
+    <ban nick="...." ip="190.112.159.147" serial="1569836F741CF4C162274C2A36757EB4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741116800"></ban>
+    <ban nick="CABECINHA" ip="189.34.199.186" serial="B31936959F2452554693774A2B878FA2" banner="bykimmich" reason="USO DE CHEAT" time="1741117158"></ban>
+    <ban nick="x3rox#000000drak46" ip="170.84.181.203" serial="1EC7CDFC3E07C4D69D7EF4D416B5D4A3" banner="manowGabriel" reason="HACK" time="1741126938"></ban>
+    <ban nick="redeadodeinimigos." ip="187.49.87.169" serial="2EBBF1346A8D973F51DFABEA82C6ED54" banner="manowGabriel" reason="HACK" time="1741137921"></ban>
+    <ban nick="TDT-CRIA-Pedro" serial="DE8DC0EFB0CF6C920B0794507C8295B2" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741142399"></ban>
+    <ban nick="RICK" ip="187.19.130.37" serial="9E8D3ABFF70C4D13B92E5EEACA12A3E2" banner="CBRP AC #3161" reason="Uso de cheat" time="1741166084"></ban>
+    <ban nick="RC|fredy" ip="177.190.186.132" serial="2F746EF56983723BBA2BB1842F65B534" banner="CL" reason="hack" time="1741180197"></ban>
+    <ban nick="PH" serial="8429C5B4A4320AEAB13150A8F46F50F1" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741191007"></ban>
+    <ban nick="leandro" ip="148.63.212.73" serial="D6524E31B6F639957A6E77151CCCADA3" banner="AnnaLeeh+" reason="HACK" time="1741210205"></ban>
+    <ban nick="GT" ip="45.191.210.247" serial="F721784ADE7965B829F0735AC1163492" banner="AnnaLeeh+" reason="HACK" time="1741211366"></ban>
+    <ban nick="Xandoca" ip="170.244.252.247" serial="97B9CEDD9451315B9913035AC63CC493" banner="CL" reason="hack" time="1741217843"></ban>
+    <ban nick="ONE&gt;TAP" ip="128.201.33.44" serial="E08DE9AE6506AE7428CEB1D11E1B7FF2" banner="CBRP AC #3161" reason="Uso de cheat" time="1741222111"></ban>
+    <ban nick="JoaoEneasPereira" ip="177.66.109.206" serial="CE7C5F58A48FA55405A9E3829008B902" banner="AnnaLeeh+" reason="HACK" time="1741229344"></ban>
+    <ban nick="!Gustavo" ip="189.11.107.11" serial="2A1615926C02674625EEE1BE3153BB52" banner="AnnaLeeh+" reason="HACK" time="1741232769"></ban>
+    <ban nick="Alves" ip="179.93.125.179" serial="932A3F57BA726C1D9581CFA0FFEA6353" banner="AnnaLeeh+" reason="HACK" time="1741233181"></ban>
+    <ban nick="mlc.bolado" ip="45.236.54.68" serial="71774A65D64C3DC7C6FBA24F6BBFF6A1" banner="Buzeira" reason="hacker" time="1741274094"></ban>
+    <ban nick="Ls" ip="201.162.73.11" serial="47E099D0C45AEE7CA8F74B8AC1B47C02" banner="CBRP AC #3161" reason="Uso de cheat" time="1741297539"></ban>
+    <ban nick="haridade" ip="138.94.37.254" serial="0D37F3E5C52E80795691CE6329B80744" banner="CBRP AC #3161" reason="Uso de cheat" time="1741297920"></ban>
+    <ban nick="BZC]MAYK" ip="138.99.155.190" serial="DFB2C3D11E346447AB4771811CD21AE4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741306625"></ban>
+    <ban nick="#000000MF|magnatastx" serial="369DA0907B96388AE3DDA805271082E4" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741352721"></ban>
+    <ban nick="UltraStool28" ip="177.200.67.209" serial="7515858EBBFEA9C24592078B11D01C62" banner="CL" reason="HACK" time="1741372955"></ban>
+    <ban nick="&gt;&lt;" ip="187.19.242.77" serial="F28D7A671CED5045FF31A75AAF88F494" banner="CBRP AC #3161" reason="Uso de cheat" time="1741378171"></ban>
+    <ban nick="Lipinho" ip="170.254.161.13" serial="AAD996D6AB3C917823D0FD9B3A81E453" banner="CBRP AC #3161" reason="Uso de cheat" time="1741388255"></ban>
+    <ban nick="FNSP|TEN.CEL|PEBINHA" serial="D08230B9BC41FB68E1E4F9F5D1D5FCB3" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741396721"></ban>
+    <ban nick="BOPE|sdd|meleicueca" ip="191.54.200.141" serial="D2297FC216BD89163321F8FA5A903694" banner="CBRP AC #3161" reason="Uso de cheat" time="1741400738"></ban>
+    <ban nick="BOPE|RCT|GT" ip="45.191.210.245" serial="E82D5EC9CB69B2CA6FD8BAAC3775E9A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1741415138"></ban>
+    <ban nick="pk" ip="45.181.232.180" serial="CC8F5AF484241240AFB515DBD0DA10F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741447847"></ban>
+    <ban nick="discord.gg/russomenu" serial="D6B083DEDD1C9470CC7B6CC594C3B634" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741449658"></ban>
+    <ban nick="discord.gg/mM3CVMCC" ip="45.236.54.67" serial="019A545FE5C223F7AD27A4A3485D8152" banner="cl" reason="hack" time="1741454601"></ban>
+    <ban nick="ROTA|MAJ|Santos" serial="3DD6D414B064993B9701F498D0F7FDE3" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741454723"></ban>
+    <ban nick="MLC|THZIN24K" ip="168.197.128.63" serial="F48E74181B3A80B638614E336CDC7FF2" banner="cl" reason="hack" time="1741460059"></ban>
+    <ban nick="SLZINNX_1V4" ip="168.182.183.30" serial="4B29E35A232078F4AC753A0ED631C0E3" banner="cl" reason="hack" time="1741462164"></ban>
+    <ban nick="Ropz" ip="186.216.177.250" serial="CCBC5FCB4A7ACEB4B36F234EB637C043" banner="cl" reason="hack" time="1741462712"></ban>
+    <ban nick="drakzada" ip="186.216.79.89" serial="6A1001396DC97D0DF590DA9C7C512343" banner="CBRP AC #3161" reason="Uso de cheat" time="1741470845"></ban>
+    <ban nick="VulgarToes28" ip="45.234.41.215" serial="0A3014DC203DC71D2E160D3A44FA99AF" banner="CBRP AC #3161" reason="Uso de cheat" time="1741471299"></ban>
+    <ban nick="Tz" ip="143.208.238.167" serial="A84E8B594687872EBA1840AB7E8254B3" banner="CBRP AC #3161" reason="Uso de cheat" time="1741473472"></ban>
+    <ban nick="NutritiousChamois21" ip="45.6.81.220" serial="70E5763D3C2E019972467E70879E2BB3" banner="CBRP AC #3161" reason="Uso de cheat" time="1741534575"></ban>
+    <ban nick="NeighborlyFugitive31" ip="45.234.43.166" serial="988591001278986B2FCE3A628AC5EC84" banner="CBRP AC #3161" reason="Uso de cheat" time="1741539629"></ban>
+    <ban nick="ph007" ip="131.221.163.76" serial="1AD234F39705690172C90C4B36C335A2" banner="CBRP AC #3161" reason="Uso de cheat" time="1741552704"></ban>
+    <ban nick="TCP.vukmaL" ip="170.247.238.187" serial="FC1A7C76B6DD6F094E77A4C8BAB2A783" banner="CBRP AC #3161" reason="Uso de cheat" time="1741571858"></ban>
+    <ban nick="Nick" serial="4252CD308ABFC488F59381CAF7B62384" banner="Lander_Vasco" reason="Hack" time="1741573859"></ban>
+    <ban nick="Falido." ip="187.99.100.218" serial="86D34E67C80D17C84B6EE37A0A5505B2" banner="CBRP AC #3161" reason="Uso de cheat" time="1741578114"></ban>
+    <ban nick="777" ip="200.236.229.134" serial="9EB258A7D77C28F33A9FFDB9A840C94F" banner="CBRP AC #3161" reason="Uso de cheat" time="1741667308"></ban>
+    <ban nick="alemaoDASDASD" ip="179.125.132.29" serial="55DA4DEBB63AAE0E689C8F2F84E0EFE3" banner="CBRP AC #3161" reason="Uso de cheat" time="1741736654"></ban>
+    <ban nick="Nick" serial="9032E33813C3374E1D0FFA16DC6B3C52" banner="ZIBRA_XXX" reason="hack" time="1741740941"></ban>
+    <ban nick="UnsuitableSpoons87" ip="186.221.32.168" serial="D1051D147C780AB01BB6209DBA402024" banner="CBRP AC #3161" reason="Uso de cheat" time="1741742849"></ban>
+    <ban nick="discord.gg/russomenu" ip="45.236.55.93" serial="3AE7EEE11B67E94DE13715CBA36BD142" banner="CBRP AC #3161" reason="Uso de cheat" time="1741804310"></ban>
+    <ban nick="zynmenu" serial="558D47E27CD55403D7F323D103849042" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741808586"></ban>
+    <ban nick="zynmenu" ip="170.150.133.50" serial="AF28891F09CB8EB350F313A411C91FA1" banner="CBRP AC #3161" reason="Uso de cheat" time="1741808650"></ban>
+    <ban nick="Nick" serial="B4A5B451166D3E4103BD5248B0982BF3" banner="queen_zrui" reason="Reason" time="1741808709"></ban>
+    <ban nick="LINZIN" ip="190.112.159.134" serial="99A4A51BF045A2B51D3C5A199E474D52" banner="CBRP AC #3161" reason="Uso de cheat" time="1741809982"></ban>
+    <ban nick="zynmenu" ip="170.150.133.139" serial="74743B6594563CC9AD1D4AE481A94E62" banner="CBRP AC #3161" reason="Uso de cheat" time="1741817133"></ban>
+    <ban nick="zynmenu" ip="170.150.132.17" serial="A5F78054A74887F62B71F7FC6693C494" banner="CBRP AC #3161" reason="Uso de cheat" time="1741817387"></ban>
+    <ban nick="zynmenu" ip="170.150.133.119" serial="D4AE4E631C5D49CF5500DB796F51DB84" banner="CBRP AC #3161" reason="Uso de cheat" time="1741819202"></ban>
+    <ban nick="Nick" serial="F06831523378644E9D23F76F497F91B2" banner="queen_zrui" reason="Divulgação" time="1741892340"></ban>
+    <ban nick="Camilinha" ip="170.247.238.243" serial="F8DD6C2F5E3E6B89B1FCCFC98AD7B8F3" banner="CBRP AC #3161" reason="Uso de cheat" time="1741902410"></ban>
+    <ban nick="Camilinha" ip="170.247.238.184" serial="2B1994C6248B836EE8829D23F190F6A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1741909367"></ban>
+    <ban nick="SCOBY.MTODIADO" ip="170.84.181.235" serial="0C67DB47497EC67DE70122C8C2BAACA4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741909468"></ban>
+    <ban nick="0alived" ip="185.113.140.111" serial="BC7E672F9FFF6B6784E72020DB1A7752" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1741974232"></ban>
+    <ban nick="ninja07" ip="138.99.72.138" serial="9DFB8AF87A1A367372C82C940A62A692" banner="CBRP AC #3161" reason="Uso de cheat" time="1741976423"></ban>
+    <ban nick="portugagp" ip="109.50.203.187" serial="D4DBCE4313DC1CD2BF5F67E576DBB653" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1741979705"></ban>
+    <ban nick="cocaine44" serial="B02ED2CCBDAD610B4B6DBBDB359AEDF2" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1741980340"></ban>
+    <ban nick="yyuri_coutinho" ip="177.11.247.173" serial="40E8E8FD04DE8EFC2A1AB10227E6CB53" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1741980606"></ban>
+    <ban nick="cocaine44" serial="66AF365CCBD221F65E1AB89B86E30234" banner="queen_zrui" reason=" (nick: cocaine44) (by queen_zrui)" time="1741980626"></ban>
+    <ban nick="menoQuente" ip="45.229.89.56" serial="555154019EF723A3E11DD5B3C900BE42" banner="CBRP AC #3161" reason="Uso de cheat" time="1741980748"></ban>
+    <ban nick="yurizada" ip="45.229.90.108" serial="21C39AA08D3F8D0CA1037823FE46B4F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741981046"></ban>
+    <ban nick="yurizada" ip="45.229.90.54" serial="6DDC2743E99950E9E07E68D6AC9F7642" banner="CBRP AC #3161" reason="Uso de cheat" time="1741981448"></ban>
+    <ban nick="pecinha157" ip="45.170.65.219" serial="62B0B530EC5833AD38D99DF8BB29E8B4" banner="CBRP AC #3161" reason="Uso de cheat" time="1741982407"></ban>
+    <ban nick="jefin_du_giragira" ip="45.229.90.61" serial="A1067343C45D04EF2767618EB445C6B3" banner="CBRP AC #3161" reason="Uso de cheat" time="1741987950"></ban>
+    <ban nick="zyn" ip="170.150.132.54" serial="D095CADCF35FBD78210679F6BFF3FA44" banner="CBRP AC #3161" reason="Uso de cheat" time="1741988601"></ban>
+    <ban nick="4M|tz;" ip="168.227.29.146" serial="7414D317D7A1D4B5345AAD0F06819A03" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1741992071"></ban>
+    <ban nick="yuri" ip="189.31.203.9" serial="F133D2FBB527C785EEBA9C706E77E344" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1741992072"></ban>
+    <ban nick="McQuenn" ip="45.229.89.31" serial="AFB2CD21C509CA891DC40D4ABB2C46F2" banner="CBRP AC #3161" reason="Uso de cheat" time="1742010806"></ban>
+    <ban nick="FancyArrow96" ip="189.50.33.66" serial="54044D4957C5EAEFE20B0DB9EEA085E4" banner="CBRP AC #3161" reason="Uso de cheat" time="1742056369"></ban>
+    <ban nick="matt" ip="45.184.185.36" serial="91E4642EB8BC75072D556B6D2F71D7E3" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742064103"></ban>
+    <ban nick="offset#mcirkc" ip="201.17.198.151" serial="AFD1D0D04B3C53BB7FEFD5ED728A0DA2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742091149"></ban>
+    <ban nick="sharkzin" ip="45.229.90.55" serial="61EE591948D24EBF576F8642FD630394" banner="CBRP AC #3161" reason="Uso de cheat" time="1742102798"></ban>
+    <ban nick="Gabriel157" ip="45.236.54.78" serial="F12DD2877F21D52DD58C3F9864E8B644" banner="CBRP AC #3161" reason="Uso de cheat" time="1742145540"></ban>
+    <ban nick="mta" ip="191.22.236.242" serial="87DCEF5867FEE8FCB99652C817D87952" banner="CBRP AC #3161" reason="Uso de cheat" time="1742197056"></ban>
+    <ban nick="Luis_Lopes" ip="45.190.158.74" serial="10A766D4B83FD9CCEC7D74EC5016E05E" banner="CBRP AC #3161" reason="Uso de cheat" time="1742242409"></ban>
+    <ban nick="gl.pecinha." ip="177.136.37.226" serial="AF96DDAE49E65B554B5658EA1D232F02" banner="CBRP AC #3161" reason="Uso de cheat" time="1742262879"></ban>
+    <ban nick="Nick" serial="99668FEF1FF96ED59988A0089F2477F2" banner="Lander_Vasco" reason="Reason" time="1742265397"></ban>
+    <ban nick="verdao" ip="177.16.146.140" serial="66C418D94AC51F7BF3F96DFBBAFD4F04" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742266943"></ban>
+    <ban nick="JT" ip="45.183.218.3" serial="60DEF9970C1B62625C1BDD6B52595C54" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742268064"></ban>
+    <ban nick="Bob_Paz" ip="45.165.86.164" serial="4A8841E76E4C3E675B21E755054741A1" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742271183"></ban>
+    <ban nick="Nick" serial="5B6BB0921FF20CEF26E8DFB9472F32B2" banner="Felipe_Snape" reason="HACK" time="1742272796"></ban>
+    <ban nick="astas7" ip="187.180.191.62" serial="B855261CF730D22BF34841CA675B2993" banner="CBRP AC #3161" reason="Uso de cheat" time="1742329516"></ban>
+    <ban nick="Netinho" ip="170.254.163.11" serial="CD1E81F3AD9B865D65EAF4CE5A83E6B3" banner="CBRP AC #3161" reason="Uso de cheat" time="1742339688"></ban>
+    <ban nick="QuackPail26" ip="187.180.184.31" serial="24EC8B03EE3DE2D369493171FE18A424" banner="CBRP AC #3161" reason="Uso de cheat" time="1742347759"></ban>
+    <ban nick="vk~cabrinha" ip="45.236.54.192" serial="F0EEF8B01C32EF1C4B3302334301B784" banner="CBRP AC #3161" reason="Uso de cheat" time="1742356537"></ban>
+    <ban nick="|GT|" ip="45.191.210.240" serial="F092C2EAF194EBFDAD98BCEDB2B66783" banner="CBRP AC #3161" reason="Uso de cheat" time="1742379281"></ban>
+    <ban nick="|GT|" ip="45.191.210.246" serial="7D8329CD711E0B4CA1BD846502C38493" banner="CBRP AC #3161" reason="Uso de cheat" time="1742380367"></ban>
+    <ban nick="WantingBrawler78" ip="45.236.55.98" serial="6BC2ECE6410CFB46F96DF0D752FDDAF3" banner="CBRP AC #3161" reason="Uso de cheat" time="1742442577"></ban>
+    <ban nick="Nick" serial="AD9E987386EB45904537B00E2B4C1024" banner="queen_zrui" reason="Calote na cidade, honrar com as dívidas independente para onde vai" time="1742516661"></ban>
+    <ban nick="Holligans" ip="179.90.233.50" serial="CCCABCBF4EF0CB1B4CC6B7976A9462A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1742518861"></ban>
+    <ban nick="PaizaoZK" ip="177.132.187.146" serial="25B55AC024505D68BCCF70E44503DA03" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742578091"></ban>
+    <ban nick="Schootz" ip="45.236.54.76" serial="C6CE9EC6E484E968D8CF25591ED793A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1742578737"></ban>
+    <ban nick="AbrasiveHyena40" ip="168.227.111.31" serial="E5ABA00AAF6C39E4859C20CB52F369A4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742612039"></ban>
+    <ban nick="MEULOGHITCHBUGOU" ip="170.84.180.207" serial="02D84D9680172267FE89C56F16A495B3" banner="CBRP AC #3161" reason="Uso de cheat" time="1742656933"></ban>
+    <ban nick="federico" ip="179.90.241.168" serial="1D716130926466961E49D136ADF00A94" banner="CBRP AC #3161" reason="Uso de cheat" time="1742674423"></ban>
+    <ban nick="dignis" ip="191.22.235.242" serial="DDC09E6DD37199CFE86629CD3E496C42" banner="CBRP AC #3161" reason="Uso de cheat" time="1742675216"></ban>
+    <ban nick="Nick" serial="DFBDB86C9737DA50C913D991BDE76644" banner="queen_zrui" reason="DIVULGAÇÃO SV CHAT ILEGAL" time="1742682663"></ban>
+    <ban nick="Rian" ip="186.216.27.24" serial="339C000BF7B977A31249DA0A4664B6E2" banner="CBRP AC #3161" reason="Uso de cheat" time="1742743936"></ban>
+    <ban nick="fodase" ip="107.151.163.87" serial="CBE7725E882275F4AB8F51B1C941BD94" banner="Diego Teves #10" reason="3" time="1742837700" unban="1750613700"></ban>
+    <ban nick="Nick" serial="3F095D8E13282A2CD2A4C1E94A459E52" banner="queen_zrui" reason="Reason" time="1742839383"></ban>
+    <ban nick="CurvyEngine13" serial="CA36483A421D3F96F0FC7B0465C2C6E4" banner="queen_zrui" reason=" (nick: CurvyEngine13) (by queen_zrui)" time="1742839496"></ban>
+    <ban nick="Nick" serial="A9E8F4E18193834D7F37CBC34DC5B5B2" banner="queen_zrui" time="1742845460"></ban>
+    <ban nick="Nick" ip="98.98.18.88" banner="queen_zrui" reason="Reason" time="1742845470"></ban>
+    <ban nick="TiredAttacker32" ip="177.223.245.2" serial="C289A4A082664FF049CDB786546D3294" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742846293"></ban>
+    <ban nick="WrongWarlord46" ip="170.78.122.177" serial="8F90C74E0381B0E8671B27820790CDA1" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742857397"></ban>
+    <ban nick="Moradinho" ip="170.254.163.141" serial="F0B96EE1FF8B69451D7CE79CC9BF4FA1" banner="CBRP AC #3161" reason="Uso de cheat" time="1742927746"></ban>
+    <ban nick="PanickyBruiser40" ip="177.131.162.235" serial="B6023DE45A7E3A44F07244ACB572DE13" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742936802"></ban>
+    <ban nick="PanickyBruiser40" ip="138.59.122.43" serial="3633D3F0D070D454B52081182E12A5A1" banner="Diego Teves #10" reason="hack" time="1742937537" unban="1750713537"></ban>
+    <ban nick="discord.gg/russomenu" ip="45.236.55.86" serial="D66E5802D8DF5FA6F24885F21B2227B3" banner="CBRP AC #3161" reason="Uso de cheat" time="1742943199"></ban>
+    <ban nick="drinhoddryy" ip="177.137.146.182" serial="2BA660A984B9BE9D85332A81B9139442" banner="CBRP AC #3161" reason="Uso de cheat" time="1742946859"></ban>
+    <ban nick="AtlasOs" ip="45.176.139.15" serial="414C7C8F424E166BBA910D275C58ECB2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1742946912"></ban>
+    <ban nick="jbziznz" ip="177.74.199.163" serial="D7AFAD11F5BEBA9841EBDB159C993383" banner="CBRP AC #3161" reason="Uso de cheat" time="1743014552"></ban>
+    <ban nick="PATI" serial="5F895C1DD5970E9D62E6827EB241DD03" banner="PaizaoRJa_KlRz" reason="hack (nick: PATI) (by PaizaoRJa_KlRz)" time="1743017551"></ban>
+    <ban nick="Nick" serial="03CB990DE5BB9FBD6ABC7E4EA71C4684" banner="Felipe_Snape" reason="HACK" time="1743025371"></ban>
+    <ban nick="SMOLKE" ip="177.136.39.192" serial="6EF981D9662189C4E92D64BA1E6F5753" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743120827"></ban>
+    <ban nick="PG" ip="177.73.195.236" serial="0D599AE921A62AB93BBF058AB1C6B083" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743265527"></ban>
+    <ban nick="ST" ip="177.73.194.134" serial="D4438DCDD1908A65A3D383B1FF22DCF4" banner="CBRP AC #3161" reason="Uso de cheat" time="1743266584"></ban>
+    <ban nick="PCC.Yuri" ip="177.54.5.103" serial="4891EA00A9C677A4A3DDB0BF724A4CF3" banner="CBRP AC #3161" reason="Uso de cheat" time="1743283697"></ban>
+    <ban nick="LEGITO@maconhaboa" ip="170.81.48.84" serial="21D96AB9AC634EEE22FCE6E31509DF44" banner="CBRP AC #3161" reason="Uso de cheat" time="1743367741"></ban>
+    <ban nick="#000000THZIN24K" ip="168.197.128.52" serial="771B1F9C9BEABAAA7B23E90F54B9A424" banner="CBRP AC #3161" reason="Uso de cheat" time="1743372006"></ban>
+    <ban nick="RANDOLL" serial="E47271AAAE86CD564EC29C116F8FB783" banner="Haridad_Foster" reason="CHEAT" time="1743373254"></ban>
+    <ban nick="nikolas" ip="45.234.43.100" serial="17DAE770956983E8621077A97DB6D1F0" banner="CBRP AC #3161" reason="Uso de cheat" time="1743377168"></ban>
+    <ban nick="GTGT" ip="45.191.210.242" serial="8136B20D06D9CEB49DFE2BE79444B152" banner="CBRP AC #3161" reason="Uso de cheat" time="1743377402"></ban>
+    <ban nick="$OneTap" ip="177.37.184.222" serial="B3534B7AFA517B3539D1ED98B67E61E4" banner="CBRP AC #3161" reason="Uso de cheat" time="1743401484"></ban>
+    <ban nick="PzDaZKdk" ip="187.10.40.107" serial="1B9B05E314A6C62AF5C8751CD5BD60A2" banner="CBRP AC #3161" reason="Uso de cheat" time="1743436644"></ban>
+    <ban nick="nikolas" ip="45.234.43.192" serial="A3B2A0472CBEB21FA37A21ABEB8119BF" banner="CBRP AC #3161" reason="Uso de cheat" time="1743451838"></ban>
+    <ban nick="SWAT|CDD|dallas7" ip="187.180.160.31" serial="B41B11FD3D98AF9D0900AB02732AFCB2" banner="CBRP AC #3161" reason="Uso de cheat" time="1743533371"></ban>
+    <ban nick="perereco" ip="192.141.16.194" serial="EE9284B9EC81560FE3DFA6D3EE627444" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743559120"></ban>
+    <ban nick="comedordetravesti" ip="189.89.12.166" serial="1DAE2359576A2F3368232C92EFFAB903" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743559183"></ban>
+    <ban nick="Nick" serial="B647BDAFD8332FF02D4A9AA78FB6F692" banner="Felipe_Snape" reason="BURLANDO BAN - ROUBO DE BAÚ" time="1743564261" unban="1751340261"></ban>
+    <ban nick="YOOK|FULL" ip="177.126.233.139" serial="A2B340D621380FC4450C126133A1CBA3" banner="CBRP AC #3161" reason="Uso de cheat" time="1743608054"></ban>
+    <ban nick="BOPE/sagaz02" ip="177.128.57.36" serial="3A8B13919F4B9BBF91F5E2CB92D52243" banner="CBRP AC #3161" reason="Uso de cheat" time="1743803903"></ban>
+    <ban nick="Jn" ip="179.125.28.52" serial="2B5D69B5A5DF5E0D8B2A4BD301905984" banner="CBRP AC #3161" reason="Uso de cheat" time="1743807784"></ban>
+    <ban nick="RARO_PIXOTE" ip="45.186.81.77" serial="B13E889FF1D31E6C7331255FA7C2B7F2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743810504"></ban>
+    <ban nick="#ff00000" ip="179.125.134.149" serial="69BA712EE025D23FA9F6B921F2FB3791" banner="CBRP AC #3161" reason="Uso de cheat" time="1743814108"></ban>
+    <ban nick="Blessed" ip="207.191.160.6" serial="4FA107AEC9E1F6BAB69B40FA3CBD1BE3" banner="CBRP AC #3161" reason="Uso de cheat" time="1743868099"></ban>
+    <ban nick="R8" serial="CA75696B478D438E4FE84A2F203B4DE3" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1743868355"></ban>
+    <ban nick="TREM" ip="177.126.233.18" serial="616DEA46640000DF238B75C72E7D89F3" banner="CBRP AC #3161" reason="Uso de cheat" time="1743890727"></ban>
+    <ban nick="champions&apos;njr" ip="45.176.137.41" serial="80353D22A1CE0B6566E61F4BD47E55B3" banner="CBRP AC #3161" reason="Uso de cheat" time="1743894615"></ban>
+    <ban nick="Pedroh" ip="170.246.97.238" serial="E2A390EA0CC506ACC406C34C2B5581A2" banner="CBRP AC #3161" reason="Uso de cheat" time="1743898229"></ban>
+    <ban nick="DetailedEris31" ip="186.193.177.200" serial="8C11D02DC7BFF308660874121CD760AD" banner="CBRP AC #3161" reason="Uso de cheat" time="1743898715"></ban>
+    <ban nick="NaturalHouseboat3" ip="187.180.160.190" serial="C59E3330CB01061E13076DCC8250DC44" banner="CBRP AC #3161" reason="Uso de cheat" time="1743956218"></ban>
+    <ban nick="BDR/LEODAHORNET" serial="C182EACFAE7D43B9AEF714B23E39B292" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1743961441"></ban>
+    <ban nick="karaio" ip="170.81.48.82" serial="0FC97710CD0B60BE7CBB5437A13B1DE4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743968353"></ban>
+    <ban nick="chaves777" ip="186.220.77.91" serial="8320B7B0432FB014F11819473D2BDF12" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743968364"></ban>
+    <ban nick="Nick" serial="6654E8BE0B2B9DB5A02C3B776928F802" banner="Felipe_Snape" reason="HACK" time="1743972395"></ban>
+    <ban nick="FXP&apos;.Sev7n!" ip="201.11.53.254" serial="CAC935B4800E827EA4FFE2738B992542" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1743995466"></ban>
+    <ban nick="itz" ip="179.125.166.83" serial="6C8E2008006BF889CD594622E8C854A2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744002741"></ban>
+    <ban nick="jader" ip="201.14.6.126" serial="4439812D86DAA47364BF947198D3EE94" banner="CBRP AC #3161" reason="Uso de cheat" time="1744062594"></ban>
+    <ban nick='cv&quot;unknow.qg' ip="187.67.235.165" serial="712EDB817FA82C1C151A607050432352" banner="CBRP AC #3161" reason="Uso de cheat" time="1744069447"></ban>
+    <ban nick="DiegoTzs" ip="177.73.194.219" serial="A137DAE5A0D2DD4141FAECC645D1BD94" banner="CBRP AC #3161" reason="Uso de cheat" time="1744074127"></ban>
+    <ban nick="Sulista" ip="186.216.254.211" serial="BB625E6D3D611DB57F1C9A718E5EA1A2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744077079"></ban>
+    <ban nick="Santos" ip="187.120.21.41" serial="1A5B7B323C670DE3C40B25BEB5492F03" banner="CBRP AC #3161" reason="Uso de cheat" time="1744084085"></ban>
+    <ban nick="Maiax" ip="177.73.195.67" serial="598EDC7CD062CBD0C872C347BC681534" banner="CBRP AC #3161" reason="Uso de cheat" time="1744153370"></ban>
+    <ban nick="AmbitiousEyebrows12" ip="186.248.171.36" serial="91DD2623D1C8C0467B14936DE34D2844" banner="CBRP AC #3161" reason="Uso de cheat" time="1744156419"></ban>
+    <ban nick="Two_brzy" ip="189.13.85.29" serial="DE94E24DF7C4B4C11E17C676A45F5F54" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744162033"></ban>
+    <ban nick="7k&apos;&apos;" ip="45.236.53.216" serial="43C7C812618DBFB41B899A3943FB44E3" banner="CBRP AC #3161" reason="Uso de cheat" time="1744216370"></ban>
+    <ban nick="goodnight" ip="45.176.137.113" serial="B5528881172D5B5F44D42FB6F09288F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1744302723"></ban>
+    <ban nick="lv" ip="168.196.21.128" serial="4A25D871CE0170052CECDE3D42279634" banner="CBRP AC #3161" reason="Uso de cheat" time="1744317779"></ban>
+    <ban nick="fe" ip="189.49.120.19" serial="B4811281F86F3DD00A9AE8CC4666E05E" banner="CBRP AC #3161" reason="Uso de cheat" time="1744329797"></ban>
+    <ban nick="#7b0000Saymon" ip="186.242.198.92" serial="628E751506DAB3EC3236F2D6CAAC60AD" banner="CBRP AC #3161" reason="Uso de cheat" time="1744415978"></ban>
+    <ban nick="AliveDeckchair24" ip="189.123.106.203" serial="9F49D015B9B7A1C8CABC3FC2C888E334" banner="CBRP AC #3161" reason="Uso de cheat" time="1744429042"></ban>
+    <ban nick="NumerousBaobab30" serial="5A85002E5E7F778EEEED175BEEE67EF4" banner="Sidoka_nss" reason=" (nick: NumerousBaobab30) (by Sidoka_nss)" time="1744433574"></ban>
+    <ban nick="#000000Krazy.xit:)" serial="7A9E25985276142E90C399B1A0232C33" banner="Eugenio_aWcE" reason="HACK (nick: #000000Krazy.xit:)) (by Eugenio_aWcE)" time="1744472079"></ban>
+    <ban nick="RTX.515.ti.rsrs" ip="190.89.143.105" serial="0727DD36E3730FF32679EFAC6A119A84" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744495759"></ban>
+    <ban nick="MarriedAunt95" serial="925345DCBA28327C7E07A97EBE0EF794" banner="queen_zrui" reason=" (nick: MarriedAunt95) (by queen_zrui)" time="1744496977"></ban>
+    <ban nick="Nick" serial="DE2A12BFBC4A1511AC12ACA53AB67124" banner="Felipe_Snape" reason="HACK" time="1744497113"></ban>
+    <ban nick="NumerousGuinea95" serial="29CA9E33630D62964B890B2FF2651134" banner="queen_zrui" reason=" (nick: NumerousGuinea95) (by queen_zrui)" time="1744497217"></ban>
+    <ban nick="InfamousGyro14" serial="0555733EAF3404927ABA8B13924FA5E3" banner="queen_zrui" reason=" (nick: InfamousGyro14) (by queen_zrui)" time="1744497719"></ban>
+    <ban nick="SoreModel67" serial="DC274C63F994F573AD79DE190AFBBEE4" banner="queen_zrui" reason=" (nick: SoreModel67) (by queen_zrui)" time="1744520959"></ban>
+    <ban nick="SubduedShofar69" serial="4FC676A5251D010517528716E1F403F2" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1744591717"></ban>
+    <ban nick="SillyChild28" serial="E87D7DEE292D7A448C222F97BD7AD282" banner="Eugenio_aWcE" reason="hackzin (nick: SillyChild28) (by Eugenio_aWcE)" time="1744591986"></ban>
+    <ban nick="mazinha" ip="187.64.44.141" serial="5AB12EC95D6886F4E074F6EBBF4CD324" banner="CBRP AC #3161" reason="Uso de cheat" time="1744598204"></ban>
+    <ban nick="paiN&gt;satorogojo" ip="177.192.19.135" serial="8DB27B07CD20CFDDFEC7811AF6324DB4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744611102"></ban>
+    <ban nick="discord.gg/russomenu" ip="45.236.54.196" serial="1989C958B3E8BEFA4461847D212B8644" banner="CBRP AC #3161" reason="Uso de cheat" time="1744654191"></ban>
+    <ban nick="FaggX" ip="189.126.46.199" serial="C058328688301625CDCCAF47F347ED03" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744660261"></ban>
+    <ban nick="#FF0000......" serial="C3AD1865E1D26F207FBC16D59E213791" banner="Eugenio_aWcE" reason="Hack (nick: #FF0000......) (by Eugenio_aWcE)" time="1744667322"></ban>
+    <ban nick="junin" serial="36CFA7C41F97B81148E489BB4853C0E2" banner="Sidoka_nss" reason=" (nick: junin) (by Sidoka_nss)" time="1744779385"></ban>
+    <ban nick="BOPE|RCT|LUAN" ip="45.236.54.200" serial="28A377F1E0280057AF12036998EC96A1" banner="CBRP AC #3161" reason="Uso de cheat" time="1744824417"></ban>
+    <ban nick="rafinha" ip="138.204.121.189" serial="E1D3B3B6261C516E73570BA975F5DCA2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744824990"></ban>
+    <ban nick="luios" ip="187.180.189.200" serial="1ECE34F0D15A435E3BCC3B531FA24082" banner="CBRP AC #3161" reason="Uso de cheat" time="1744905393"></ban>
+    <ban nick="Mtziinn" serial="FFD405C79953E48596FE7E86269776E2" banner="Eugenio_aWcE" reason="hack (nick: Mtziinn) (by Eugenio_aWcE)" time="1744906020"></ban>
+    <ban nick="PMMA/sdd-chzinn" ip="177.10.23.149" serial="314D5D285F03C0B6794009CDD71DA8B4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1744918208"></ban>
+    <ban nick="KarloSants" serial="AC329A7363C8DFB66BCE8686E41DF794" banner="Sidoka_nss" reason=" (nick: KarloSants) (by Sidoka_nss)" time="1744923557"></ban>
+    <ban nick="99" ip="189.50.181.232" serial="1C49E37932D2B874B9AB311FD2FB5343" banner="CBRP AC #3161" reason="Uso de cheat" time="1744924102"></ban>
+    <ban nick="1010arq" serial="F0E51870157955AA6ECE5900E2152FF3" banner="Sidoka_nss" reason=" (nick: 1010arq) (by Sidoka_nss)" time="1745003137"></ban>
+    <ban nick="HelpersDx" ip="131.72.244.255" serial="92F120A014969BF688757FCF7BA860AD" banner="CBRP AC #3161" reason="Uso de cheat" time="1745013718"></ban>
+    <ban nick="suspect" serial="384F3C9194B32B3D3C8E368F45817F13" banner="Anna_Leeh" reason="HACK (nick: suspect) (by Anna_Leeh)" time="1745036331"></ban>
+    <ban nick="rafinha" ip="138.204.121.182" serial="878BBBE8A39ECC40614B4DED5CAECAB3" banner="CBRP AC #3161" reason="Uso de cheat" time="1745096596"></ban>
+    <ban nick="3f&apos;Henr7" ip="179.254.164.23" serial="772010D9B88E585601E897A2BA50F6F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1745112180"></ban>
+    <ban nick="Mascote12" ip="179.97.24.192" serial="AE118AD5A57F713BFCBD664000515044" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745113158"></ban>
+    <ban nick="san_edu" ip="177.37.137.190" serial="0099FD6CAB4EA015A4730625202058E3" banner="CBRP AC #3161" reason="Uso de cheat" time="1745118989"></ban>
+    <ban nick="soares1v7" ip="187.19.244.210" serial="D8944F7AF1C4BCBF376E300BAF732F44" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745127447"></ban>
+    <ban nick="HS_p1" ip="201.11.210.211" serial="E7CF9133EFFDEA59574D35D7DB329A84" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745128418"></ban>
+    <ban nick="FLISCKZ" ip="189.4.76.109" serial="A001093989BFCA6F2E708E9CF27C92F4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745128427"></ban>
+    <ban nick="xxxx" ip="177.185.20.182" serial="E70B25C64234A037A010AF07E9784A43" banner="CBRP AC #3161" reason="Uso de cheat" time="1745136459"></ban>
+    <ban nick="Ptxeex01nevida" ip="189.85.118.216" serial="5B4BD8B81EC59CCB7A7923263E613791" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745166300"></ban>
+    <ban nick="aSsuncao" ip="177.44.132.233" serial="E4A97A4682CB9E017E5CF55C10D558E3" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745175823"></ban>
+    <ban nick="VanderleiHack" ip="188.251.148.52" serial="57844117DA360C3D38353EB61ABAC491" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745193599"></ban>
+    <ban nick="UrubuDoPIX" ip="177.128.8.109" serial="470747814DC9DD8CC7AEF563919D0684" banner="CBRP AC #3161" reason="Uso de cheat" time="1745193866"></ban>
+    <ban nick="alemao" ip="45.181.233.94" serial="06F6E7832E35613E9A3B1B74261E18A4" banner="CBRP AC #3161" reason="Uso de cheat" time="1745195491"></ban>
+    <ban nick="natadesp" ip="186.219.109.28" serial="19532B12121F2CBAA94EE692D3517A53" banner="CBRP AC #3161" reason="Uso de cheat" time="1745200484"></ban>
+    <ban nick="MLC&apos;Goza&amp;Dormi" ip="143.255.108.98" serial="7880E67C9CDBF3325342BB462C89FB94" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745207587"></ban>
+    <ban nick="???" ip="177.20.167.127" serial="71FC2F1DF8F3976595E81B3B43F9A544" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745209452"></ban>
+    <ban nick="Cabeca" ip="177.10.161.226" serial="A953657D248434B408231F2419F02E83" banner="CBRP AC #3161" reason="Uso de cheat" time="1745210165"></ban>
+    <ban nick="Negresco_Nervoso" ip="45.190.148.189" serial="C5DDDBF4475FA475935AB3F84771E391" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745210463"></ban>
+    <ban nick="MLKAzaralho" ip="45.191.139.35" serial="C61A05414F7FC0590C84689AF33FCE54" banner="CBRP AC #3161" reason="Uso de cheat" time="1745211523"></ban>
+    <ban nick="CriaDoLittleBread" ip="200.79.185.242" serial="BA626DE138819A396ABA77EB50EA4584" banner="CBRP AC #3161" reason="Uso de cheat" time="1745249739"></ban>
+    <ban nick="#FACADA????/g502" ip="2.81.2.234" serial="F3040BBA9E6F313783EDB3265981F083" banner="CBRP AC #3161" reason="Uso de cheat" time="1745250414"></ban>
+    <ban nick="marcola&apos;b12" ip="45.177.218.41" serial="FC93F92912F9383630CB39DCFAABBE62" banner="CBRP AC #3161" reason="Uso de cheat" time="1745265978"></ban>
+    <ban nick="pedro&apos;&apos;piordospa" ip="177.83.51.20" serial="0484F8A52623ADB7E26B6C61B1B12433" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745267436"></ban>
+    <ban nick="GT" ip="45.191.210.243" serial="E27E3F20E7E1386B46DBFAB30A16FFE3" banner="CBRP AC #3161" reason="Uso de cheat" time="1745269789"></ban>
+    <ban nick="accused33|im7" ip="187.19.242.221" serial="F439F4E879EEA9590E1CFF2F6A64AF22" banner="CBRP AC #3161" reason="Uso de cheat" time="1745282600"></ban>
+    <ban nick="ykz.nine" ip="170.150.254.1" serial="57612A947E3156FDA3536B8E73926884" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745285914"></ban>
+    <ban nick="BeneficialAir93" ip="200.163.202.162" serial="590187C65ED820B0209F08A4DF3B7052" banner="CBRP AC #3161" reason="Uso de cheat" time="1745294619"></ban>
+    <ban nick="ValuableMontero52" ip="45.4.250.233" serial="39952E86922BC95F0EB7E4DB2686D3F4" banner="CBRP AC #3161" reason="Uso de cheat" time="1745376135"></ban>
+    <ban nick="seuku" ip="177.75.118.68" serial="FEBF9A7BBD50FBEC9F7599FD6FD61BA2" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745460790"></ban>
+    <ban nick="NEANDERTAL_HOMOSAPIENS" serial="84870216ADDF9AEFACFC6D00F92912F4" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1745513548"></ban>
+    <ban nick="SONECA" ip="187.122.59.53" serial="D92E452374D14345796063A347E6C542" banner="CBRP AC #3161" reason="Uso de cheat" time="1745514317"></ban>
+    <ban nick="#FF0000Poder" ip="179.199.14.16" serial="20847D3060599159B198A54617A82554" banner="CBRP AC #3161" reason="Uso de cheat" time="1745518332"></ban>
+    <ban nick="Nick" serial="DD71AEAF7CF541B70AA613DBA0152803" banner="queen_zrui" reason="Uso de Cheat" time="1745597774"></ban>
+    <ban nick="mj" ip="177.131.164.112" serial="A05398F56B2DE0FA0E4C7FFA7DF01953" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745624211"></ban>
+    <ban nick="zer0xit" ip="186.249.151.181" serial="CF99BCA2A9F4AE31BE81896EFC87A094" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745624296"></ban>
+    <ban nick="COELINHA" serial="54CCA69E947DB788DAF661A994B6ED13" banner="Anti-Cheat" reason="Hack - Deu dano sem ter um ID." time="1745633058"></ban>
+    <ban nick="lucas" ip="187.180.190.17" serial="6BB89335642A849723BBF21861E50082" banner="CBRP AC #3161" reason="Uso de cheat" time="1745634739"></ban>
+    <ban nick="AIMLOCK.XIT" serial="34C144689633B010EB46189D685906B2" banner="queen_zrui" reason="Procura algo pra fazer na vida (nick: AIMLOCK.XIT) (by queen_zrui)" time="1745678994"></ban>
+    <ban nick="Gardenia" ip="138.117.220.221" serial="2194DE22AF28D4BA903096D036F7DD12" banner="CBRP AC #3161" reason="Uso de cheat" time="1745698306"></ban>
+    <ban nick="AlertBroom53" ip="170.244.28.163" serial="56A54547B8BA42EB5653D7F3B8709C43" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1745721949"></ban>
+    <ban nick="f3randow" ip="201.69.241.100" serial="4A8883E9C37A845BC42D3A2511699C13" banner="CBRP AC #3161" reason="Uso de cheat" time="1745875910"></ban>
+    <ban nick="JazzGhost155" serial="F9092FCF74DE72E92F3059E23FF7C302" banner="queen_zrui" reason="HACKER (nick: JazzGhost155) (by queen_zrui)" time="1745876887"></ban>
+    <ban nick="JazzGhost155" ip="177.104.251.7" serial="A78C199502746E3949B0437213508F52" banner="CBRP AC #3161" reason="Uso de cheat" time="1745877111"></ban>
+    <ban nick="BOPE|juca.bala" ip="164.163.208.237" serial="322AF672D45AF83E2AEA92779B17D8E4" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1746072049"></ban>
+    <ban nick="eSpAnta" ip="170.254.161.0" serial="29E8794881E66EEE4BC16445F0CE68F3" banner="CBRP AC #3161" reason="Uso de cheat" time="1746140684"></ban>
+    <ban nick="PozeMenuS2" ip="177.126.235.0" serial="3F958442FC85D15EBE44B10AC3C20093" banner="FantasyAC | Best AntiCheat" reason="You have been banned for using lua executor!" time="1746193988"></ban>
+    <ban nick="HabitualBooger34" ip="45.234.42.214" serial="72DE8C8FB6AA10016F783F3CB2C5E05E" banner="CBRP AC #3161" reason="Uso de cheat" time="1746214670"></ban>
+    <ban nick="HabitualBooger34" ip="45.234.43.101" serial="D87534543392414D61E8AC063C6F3791" banner="CBRP AC #3161" reason="Uso de cheat" time="1746215603"></ban>
+    <ban nick="rafinha" ip="138.204.121.165" serial="FE97E014B29BF7BC9262C1369187CCF4" banner="CBRP AC #3161" reason="Uso de cheat" time="1746236762"></ban>
+</banlist>
